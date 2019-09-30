@@ -1,7 +1,1 @@
-module.exports = [
-  {title: 'Mean Girls'},
-  {title: 'Hackers'},
-  {title: 'The Grey'},
-  {title: 'Sunshine'},
-  {title: 'Ex Machina'},
-];
+module.exports = [{ row: [0, 0, 0] }, { row: [0, 0, 0] }, { row: [0, 0, 0] }];
